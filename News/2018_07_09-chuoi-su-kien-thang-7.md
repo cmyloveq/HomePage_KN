@@ -3,8 +3,6 @@ image : https://i.imgur.com/QPGSXso.jpg
 date  : 09/07/2018
 Chào mừng bạn đến với Thiên Long Bát Bộ - Kỷ Niệm
 
-![Image](https://i.imgur.com/QPGSXso.jpg)
-
 🔊🔊🔊 BTQ TLBB Kỷ Niệm thông báo.
 
 ## Chào mừng tháng 7 với chuỗi event như sau:
@@ -65,3 +63,5 @@ Chào mừng bạn đến với Thiên Long Bát Bộ - Kỷ Niệm
 - 🍎🍎Gruop :https://www.facebook.com/groups/kyniemtlbb/
 
 ⚜️⚜️⚜️ BQT TLBB Kỹ Niệm kính bút - Chúc các bạn onl game vui vẻ..
+
+![Image](https://i.imgur.com/QPGSXso.jpg)
