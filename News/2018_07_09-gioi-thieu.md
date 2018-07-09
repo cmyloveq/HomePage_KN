@@ -60,3 +60,4 @@ date  :9_7_2018
 
 ⚜️⚜️⚜️ BQT TLBB Kỹ Niệm kính bút - Chúc các bạn onl game vui vẻ..
 
+![Image](https://i.imgur.com/QPGSXso.jpg)
