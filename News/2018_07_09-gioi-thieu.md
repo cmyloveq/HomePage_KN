@@ -50,13 +50,13 @@ date  :9_7_2018
 
 ♻️♻️ Lưu Ý : Điểm tích lũy chỉ được tính trong thời gian quy định và sẽ chốt khi kết thúc thời gian sự kiện và không bao gồm điểm khuyến mãi.
 
-##🍎🍎 Trang chủ : http://tl.kyniemtlbb.com/
+##🍎🍎Trang chủ :http://tl.kyniemtlbb.com/
 
-##🍎🍎 Link Dowm : http://tl.kyniemtlbb.com/Download
+##🍎🍎Link Dowm :http://tl.kyniemtlbb.com/Download
 
-##🍎🍎 Fanpage : https://www.facebook.com/kyniemtlbb/
+##🍎🍎Fanpage :https://www.facebook.com/kyniemtlbb/
 
-##🍎🍎 Gruop : https://www.facebook.com/groups/kyniemtlbb/
+##🍎🍎Gruop :https://www.facebook.com/groups/kyniemtlbb/
 
 ⚜️⚜️⚜️ BQT TLBB Kỹ Niệm kính bút - Chúc các bạn onl game vui vẻ..
 
