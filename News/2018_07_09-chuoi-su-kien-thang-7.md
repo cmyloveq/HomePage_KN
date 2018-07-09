@@ -1,4 +1,4 @@
-title : Giới Thiệu về sever
+title : Giới thiệu chuỗi sự kiện tháng 7
 image : https://i.imgur.com/QPGSXso.jpg
 date  : 09/07/2018
 Chào mừng bạn đến với Thiên Long Bát Bộ - Kỷ Niệm
