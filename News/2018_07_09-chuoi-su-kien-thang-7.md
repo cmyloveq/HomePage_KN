@@ -19,7 +19,7 @@ Chào mừng bạn đến với Thiên Long Bát Bộ - Kỷ Niệm
 
 - 0️⃣️6️⃣ ️: Bang hội đại chiến - trác lộc . Sẽ cập nhật thời gian sau khi kết thúc top 119 .
 
-- 0️⃣️7️⃣️ : Khuyến mãi giá trị thẻ nạp với tỉ lệ lên đến 50% đối với ATM và 30% đối với thẻ cào không trừ mệnh giá . Bất đầu từ 00h ngày 05 .07.2018 - 00h 11.07.2018 .
+- 0️⃣️7️⃣️ : Khuyến mãi giá trị thẻ nạp với tỉ lệ lên đến 50% đối với ATM và 30% đối với thẻ cào không trừ mệnh giá . Bất đầu từ 00h ngày 05 .07.2018 - 00h 12.07.2018 .
 
 - 0️⃣️8️⃣️️️ : Một số mini game cũng như mini event sẽ diễn ra trực tiếp trong game . Sẽ cập nhật thời gian chính xác sau khi top 119 kết thúc .
 ## ⚜️⚜️⚜️Top cấp độ 119 .
