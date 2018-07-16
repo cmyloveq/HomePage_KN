@@ -5,15 +5,15 @@ image :https://i.imgur.com/oHm4PZN.jpg
 
 ️**Thời gian ra mắt**: ***19h ngày 1/8***
 
-**Trang chủ: http://tl.kyniemtlbb.com
+**Trang chủ: http://tl.kyniemtlbb.com**
 
-**Đăng Ký: http://id.kyniemtlbb.com/register
+**Đăng Ký: http://id.kyniemtlbb.com/register**
 
-**Fangpage: https://www.facebook.com/kyniemtlbb
+**Fangpage: https://www.facebook.com/kyniemtlbb**
 
-**Groups: https://www.facebook.com/groups/kyniemtlbb
+**Groups: https://www.facebook.com/groups/kyniemtlbb**
 
-**Tải Game: http://tl.kyniemtlbb.com/Download
+**Tải Game: http://tl.kyniemtlbb.com/Download**
 
 ️**Thông tin Server:** 
 
