@@ -14,7 +14,7 @@ image :https://i.imgur.com/oHm4PZN.jpg
 
 ####Tải Game: http://tl.kyniemtlbb.com/Download
 
-️####Thông tin Server: 
+️#### Thông tin Server: 
 
 Tỉ lệ Exp: x3 sau đua top x6
 
@@ -22,7 +22,7 @@ Tỉ lệ drop: x1
 
 Thể Loại: Cày sâu cuốc bẫm
 
-️####Giới Thiệu Server Cuồng Phong Bạo Vũ:
+️#### Giới Thiệu Server Cuồng Phong Bạo Vũ:
 
 1. Hướng đi gần giống với server Phi long Tại Thiên (bảng drop sẽ update sau vài ngày)
 
