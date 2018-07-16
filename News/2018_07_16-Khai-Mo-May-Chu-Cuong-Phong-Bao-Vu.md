@@ -1,8 +1,8 @@
 title : Khai Mở Máy Chủ Cuồng Phong Bạo Vũ
 image :https://i.imgur.com/oHm4PZN.jpg
 
-####🔔🔔Team Kỷ Niệm TLBB thân mời các Anh hùng yêu thích Thiên Long Bát Bộ nói chung và đặc biệt yêu thích TLBB thời đầu Tham gia Server Mới có tên Cuồng Phong Bạo Vũ
-️==❎Thời gian ra mắt: 19h ngày 1/8==
+####Team Kỷ Niệm TLBB thân mời các Anh hùng yêu thích Thiên Long Bát Bộ nói chung và đặc biệt yêu thích TLBB thời đầu Tham gia Server Mới có tên Cuồng Phong Bạo Vũ
+️==Thời gian ra mắt: 19h ngày 1/8==
 
 ####Trang chủ: http://tl.kyniemtlbb.com
 
@@ -14,7 +14,7 @@ image :https://i.imgur.com/oHm4PZN.jpg
 
 ####Tải Game: http://tl.kyniemtlbb.com/Download
 
-️###❎Thông tin Server: 
+️####Thông tin Server: 
 
 Tỉ lệ Exp: x3 sau đua top x6
 
@@ -22,7 +22,7 @@ Tỉ lệ drop: x1
 
 Thể Loại: Cày sâu cuốc bẫm
 
-️####❎Giới Thiệu Server Cuồng Phong Bạo Vũ:
+️####Giới Thiệu Server Cuồng Phong Bạo Vũ:
 
 1. Hướng đi gần giống với server Phi long Tại Thiên (bảng drop sẽ update sau vài ngày)
 
@@ -40,7 +40,7 @@ Thể Loại: Cày sâu cuốc bẫm
 
 8. 2 tháng sẽ khai mở một server mới. Vừa duy trì được lượng mem ổn định, vừa làm cho nhiều người biết đến server hơn. Khi hợp lý sẽ hợp các server lại với nhau.
 
-️❎Hỗ Trợ Tân Thủ 
+️==Hỗ Trợ Tân Thủ== 
 
 - Giftcode Tân Thủ: KYNIEMTLBB25052018
 
@@ -54,13 +54,13 @@ Thể Loại: Cày sâu cuốc bẫm
 
 =================================
 
-####🎁Sự Kiện Giftcode mừng ngày OPEN Cuồng Phong Bạo Vũ:
+####Sự Kiện Giftcode mừng ngày OPEN Cuồng Phong Bạo Vũ:
 
 Bước 1: Like fangpage, Like bài viết, Tag tên ít nhất 10 người bạn mời cùng chơi và chia sẻ bài viết này dưới chế độ công khai
 
 Bước 2: Gửi ảnh đã tag tên về fangpage để nhận code trong vòng 30 phút.
 
-####🎁Đua Top level 99 nhận quà khủng:
+####Đua Top level 99 nhận quà khủng:
 
 Thời gian diễn ra: Đến khi có 1 anh hùng đạt level 99
 
@@ -74,11 +74,11 @@ Phần Thưởng:
 
 4.Top 4 - Top 10: 2 thể lực 5 + 100k KNB
 
-####🎁Khuyến mãi Nạp Bạc Từ ngày 1/08 đến 3/08#
+####Khuyến mãi Nạp Bạc Từ ngày 1/08 đến 3/08#
 
 Nội dung: Khuyến mãi 20% bạc đối với thẻ Zing và 40% đối với Nạp qua ATM, Paypal.#
 
-####🎁Sự kiện " Nhất Đại Phú Gia " ( chỉ áp dụng cho Server Cuồng Phong Bạo Vũ ) 
+####Sự kiện " Nhất Đại Phú Gia " ( chỉ áp dụng cho Server Cuồng Phong Bạo Vũ ) 
 Thời gian diễn ra: Từ Ngày 01/8 đến 24h 07/08#
 
 1.Top 1: Trùng Lâu Giới + Băng Phách Thần Châm + 1 áo thời trang có thuộc tính (30 ngày) + pét 3k tư chất
