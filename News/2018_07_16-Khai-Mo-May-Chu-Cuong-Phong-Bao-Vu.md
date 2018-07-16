@@ -5,15 +5,15 @@ image :https://i.imgur.com/oHm4PZN.jpg
 
 ️**Thời gian ra mắt**: ***19h ngày 1/8***
 
-**Trang chủ: http://tl.kyniemtlbb.com**
+**Trang chủ:** http://tl.kyniemtlbb.com
 
-**Đăng Ký: http://id.kyniemtlbb.com/register**
+**Đăng Ký:** http://id.kyniemtlbb.com/register
 
-**Fangpage: https://www.facebook.com/kyniemtlbb**
+**Fangpage:** https://www.facebook.com/kyniemtlbb
 
-**Groups: https://www.facebook.com/groups/kyniemtlbb**
+**Groups:** https://www.facebook.com/groups/kyniemtlbb
 
-**Tải Game: http://tl.kyniemtlbb.com/Download**
+**Tải Game:** http://tl.kyniemtlbb.com/Download
 
 ️**Thông tin Server:** 
 
@@ -77,10 +77,11 @@ Phần Thưởng:
 
 **Khuyến mãi Nạp Bạc Từ ngày 1/08 đến 3/08**
 
-Nội dung: Khuyến mãi 20% bạc đối với thẻ Zing và 40% đối với Nạp qua ATM, Paypal.#
+Nội dung: Khuyến mãi 20% bạc đối với thẻ Zing và 40% đối với Nạp qua ATM, Paypal.
 
 **Sự kiện " Nhất Đại Phú Gia " ( chỉ áp dụng cho Server Cuồng Phong Bạo Vũ )**
-Thời gian diễn ra: Từ Ngày 01/8 đến 24h 07/08#
+ 
+  **Thời gian diễn ra**: Từ Ngày 01/8 đến 24h 07/08#
 
 - Top 1: Trùng Lâu Giới + Băng Phách Thần Châm + 1 áo thời trang có thuộc tính (30 ngày) + pét 3k tư chất
 
