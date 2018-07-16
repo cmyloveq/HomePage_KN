@@ -4,15 +4,15 @@ image :https://i.imgur.com/oHm4PZN.jpg
 🔔🔔Team Kỷ Niệm TLBB thân mời các Anh hùng yêu thích Thiên Long Bát Bộ nói chung và đặc biệt yêu thích TLBB thời đầu Tham gia Server Mới có tên Cuồng Phong Bạo Vũ
 ️❎Thời gian ra mắt: 19h ngày 1/8
 
-#Trang chủ: http://tl.kyniemtlbb.com
+####Trang chủ: http://tl.kyniemtlbb.com
 
-###Đăng Ký: http://id.kyniemtlbb.com/register
+####Đăng Ký: http://id.kyniemtlbb.com/register
 
-###Fangpage: https://www.facebook.com/kyniemtlbb
+####Fangpage: https://www.facebook.com/kyniemtlbb
 
-###Groups: https://www.facebook.com/groups/kyniemtlbb
+####Groups: https://www.facebook.com/groups/kyniemtlbb
 
-###Tải Game: http://tl.kyniemtlbb.com/Download
+####Tải Game: http://tl.kyniemtlbb.com/Download
 
 ️❎Thông tin Server: 
 
@@ -59,26 +59,26 @@ Thể Loại: Cày sâu cuốc bẫm
 
 ##Bước 2: Gửi ảnh đã tag tên về fangpage để nhận code trong vòng 30 phút.
 
-🎁Đua Top level 99 nhận quà khủng:
+#🎁Đua Top level 99 nhận quà khủng:
 
-Thời gian diễn ra: Đến khi có 1 anh hùng đạt level 99
+Thời gian diễn ra: Đến khi có 1 anh hùng đạt level 99#
 
-Phần Thưởng: 
+####Phần Thưởng: 
 
-#Top 1:Trùng Lâu Triệu/Quy +1 thể 6+ 2k vàng + 300k KNB
+####Top 1:Trùng Lâu Triệu/Quy +1 thể 6+ 2k vàng + 300k KNB
 
-#Top 2: 1 Thể 6 + 1k vàng + 200k KNB
+####Top 2: 1 Thể 6 + 1k vàng + 200k KNB
 
-#Top 3:3 Thể 5 + 700 vàng + 100k KNB
+####Top 3:3 Thể 5 + 700 vàng + 100k KNB
 
-#Top 4 - Top 10: 2 thể lực 5 + 100k KNB
+####Top 4 - Top 10: 2 thể lực 5 + 100k KNB
 
-🎁Khuyến mãi Nạp Bạc Từ ngày 1/08 đến 3/08
+##🎁Khuyến mãi Nạp Bạc Từ ngày 1/08 đến 3/08#
 
-Nội dung: Khuyến mãi 20% bạc đối với thẻ Zing và 40% đối với Nạp qua ATM, Paypal.
+##Nội dung: Khuyến mãi 20% bạc đối với thẻ Zing và 40% đối với Nạp qua ATM, Paypal.#
 
-🎁Sự kiện " Nhất Đại Phú Gia " ( chỉ áp dụng cho Server Cuồng Phong Bạo Vũ ) 
-Thời gian diễn ra: Từ Ngày 01/8 đến 24h 07/08
+##🎁Sự kiện " Nhất Đại Phú Gia " ( chỉ áp dụng cho Server Cuồng Phong Bạo Vũ ) 
+Thời gian diễn ra: Từ Ngày 01/8 đến 24h 07/08#
 
 #Top 1: Trùng Lâu Giới + Băng Phách Thần Châm + 1 áo thời trang có thuộc tính (30 ngày) + pét 3k tư chất
 
