@@ -1,18 +1,19 @@
 title : Khai Mở Máy Chủ Cuồng Phong Bạo Vũ
 image :https://i.imgur.com/oHm4PZN.jpg
 
-####Team Kỷ Niệm TLBB thân mời các Anh hùng yêu thích Thiên Long Bát Bộ nói chung và đặc biệt yêu thích TLBB thời đầu Tham gia Server Mới có tên Cuồng Phong Bạo Vũ
-️==Thời gian ra mắt: 19h ngày 1/8==
+**Team Kỷ Niệm TLBB thân mời các Anh hùng yêu thích Thiên Long Bát Bộ nói chung và đặc biệt yêu thích TLBB thời đầu Tham gia Server Mới có tên Cuồng Phong Bạo Vũ**
 
-####Trang chủ: http://tl.kyniemtlbb.com
+️**Thời gian ra mắt**: ***19h ngày 1/8***
 
-####Đăng Ký: http://id.kyniemtlbb.com/register
+**Trang chủ: http://tl.kyniemtlbb.com
 
-####Fangpage: https://www.facebook.com/kyniemtlbb
+**Đăng Ký: http://id.kyniemtlbb.com/register
 
-####Groups: https://www.facebook.com/groups/kyniemtlbb
+**Fangpage: https://www.facebook.com/kyniemtlbb
 
-####Tải Game: http://tl.kyniemtlbb.com/Download
+**Groups: https://www.facebook.com/groups/kyniemtlbb
+
+**Tải Game: http://tl.kyniemtlbb.com/Download
 
 ️**Thông tin Server:** 
 
