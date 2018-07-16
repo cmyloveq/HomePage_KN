@@ -1,4 +1,4 @@
-title : Giới Thiệu về sever
+title : Khai Mở Máy Chủ Cuồng Phong Bạo Vũ
 image :https://i.imgur.com/oHm4PZN.jpg
 
 🔔🔔Team Kỷ Niệm TLBB thân mời các Anh hùng yêu thích Thiên Long Bát Bộ nói chung và đặc biệt yêu thích TLBB thời đầu Tham gia Server Mới có tên Cuồng Phong Bạo Vũ
@@ -55,13 +55,13 @@ Thể Loại: Cày sâu cuốc bẫm
 =================================
 🎁Sự Kiện Giftcode mừng ngày OPEN Cuồng Phong Bạo Vũ:
 
-##Bước 1: Like fangpage, Like bài viết, Tag tên ít nhất 10 người bạn mời cùng chơi và chia sẻ bài viết này dưới chế độ công khai
+###Bước 1: Like fangpage, Like bài viết, Tag tên ít nhất 10 người bạn mời cùng chơi và chia sẻ bài viết này dưới chế độ công khai
 
-##Bước 2: Gửi ảnh đã tag tên về fangpage để nhận code trong vòng 30 phút.
+###Bước 2: Gửi ảnh đã tag tên về fangpage để nhận code trong vòng 30 phút.
 
-#🎁Đua Top level 99 nhận quà khủng:
+##🎁Đua Top level 99 nhận quà khủng:
 
-Thời gian diễn ra: Đến khi có 1 anh hùng đạt level 99#
+##Thời gian diễn ra: Đến khi có 1 anh hùng đạt level 99
 
 ####Phần Thưởng: 
 
@@ -80,10 +80,10 @@ Thời gian diễn ra: Đến khi có 1 anh hùng đạt level 99#
 ##🎁Sự kiện " Nhất Đại Phú Gia " ( chỉ áp dụng cho Server Cuồng Phong Bạo Vũ ) 
 Thời gian diễn ra: Từ Ngày 01/8 đến 24h 07/08#
 
-#Top 1: Trùng Lâu Giới + Băng Phách Thần Châm + 1 áo thời trang có thuộc tính (30 ngày) + pét 3k tư chất
+####Top 1: Trùng Lâu Giới + Băng Phách Thần Châm + 1 áo thời trang có thuộc tính (30 ngày) + pét 3k tư chất
 
-#Top 2: Trùng lâu Triệu/ Quy + Băng Phách Thần Châm + 1 áo thời trang có thuộc tính ( 30 ngày ) + pet 3k tư chất
+####Top 2: Trùng lâu Triệu/ Quy + Băng Phách Thần Châm + 1 áo thời trang có thuộc tính ( 30 ngày ) + pet 3k tư chất
 
-#Top 3: Băng phách Thần châm + 2 điêu văn Tùy chọn cấp 6 + 15 vải bông 3 + 15 bí ngân 3.
+####Top 3: Băng phách Thần châm + 2 điêu văn Tùy chọn cấp 6 + 15 vải bông 3 + 15 bí ngân 3.
 
 ![Image](https://i.imgur.com/oHm4PZN.jpg)
