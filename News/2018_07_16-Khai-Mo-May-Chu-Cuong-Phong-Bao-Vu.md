@@ -5,17 +5,17 @@ image :https://i.imgur.com/oHm4PZN.jpg
 
 ️**Thời gian ra mắt**: ***19h ngày 1/8***
 
-**Trang chủ:** http://tl.kyniemtlbb.com
+***Trang chủ:*** http://tl.kyniemtlbb.com
 
-**Đăng Ký:** http://id.kyniemtlbb.com/register
+***Đăng Ký:*** http://id.kyniemtlbb.com/register
 
-**Fangpage:** https://www.facebook.com/kyniemtlbb
+***Fangpage:*** https://www.facebook.com/kyniemtlbb
 
-**Groups:** https://www.facebook.com/groups/kyniemtlbb
+***Groups:*** https://www.facebook.com/groups/kyniemtlbb
 
-**Tải Game:** http://tl.kyniemtlbb.com/Download
+***Tải Game:*** http://tl.kyniemtlbb.com/Download
 
-️**Thông tin Server:** 
+️***Thông tin Server:*** 
 
 **Tỉ lệ Exp**: x3 sau đua top x6
 
@@ -23,7 +23,7 @@ image :https://i.imgur.com/oHm4PZN.jpg
 
 **Thể Loại**: Cày sâu cuốc bẫm
 
-️**Giới Thiệu Server Cuồng Phong Bạo Vũ:**
+️***Giới Thiệu Server Cuồng Phong Bạo Vũ:***
 
 - Hướng đi gần giống với server Phi long Tại Thiên (bảng drop sẽ update sau vài ngày)
 
@@ -41,7 +41,7 @@ image :https://i.imgur.com/oHm4PZN.jpg
 
 - 2 tháng sẽ khai mở một server mới. Vừa duy trì được lượng mem ổn định, vừa làm cho nhiều người biết đến server hơn. Khi hợp lý sẽ hợp các server lại với nhau.
 
-️**Hỗ Trợ Tân Thủ** 
+️***Hỗ Trợ Tân Thủ***
 
 - Giftcode Tân Thủ: **KYNIEMTLBB25052018**
 
@@ -55,13 +55,13 @@ image :https://i.imgur.com/oHm4PZN.jpg
 
 =================================
 
-**Sự Kiện Giftcode mừng ngày OPEN Cuồng Phong Bạo Vũ:**
+***Sự Kiện Giftcode mừng ngày OPEN Cuồng Phong Bạo Vũ:***
 
 Bước 1: Like fangpage, Like bài viết, Tag tên ít nhất 10 người bạn mời cùng chơi và chia sẻ bài viết này dưới chế độ công khai
 
 Bước 2: Gửi ảnh đã tag tên về fangpage để nhận code trong vòng 30 phút.
 
-**Đua Top level 99 nhận quà khủng**
+***Đua Top level 99 nhận quà khủng***
 
 **Thời gian diễn ra**: Đến khi có 1 anh hùng đạt level 99
 
@@ -75,11 +75,11 @@ Phần Thưởng:
 
 - Top 4 - Top 10: 2 thể lực 5 + 100k KNB
 
-**Khuyến mãi Nạp Bạc Từ ngày 1/08 đến 3/08**
+***Khuyến mãi Nạp Bạc Từ ngày 1/08 đến 3/08***
 
 **Nội dung**: Khuyến mãi 20% bạc đối với thẻ Zing và 40% đối với Nạp qua ATM, Paypal.
 
-**Sự kiện " Nhất Đại Phú Gia " ( chỉ áp dụng cho Server Cuồng Phong Bạo Vũ )**
+***Sự kiện " Nhất Đại Phú Gia " ( chỉ áp dụng cho Server Cuồng Phong Bạo Vũ )***
  
   **Thời gian diễn ra**: Từ Ngày 01/8 đến 24h 07/08#
 
