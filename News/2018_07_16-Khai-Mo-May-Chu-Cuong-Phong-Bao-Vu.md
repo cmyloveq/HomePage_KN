@@ -5,7 +5,7 @@ date: 16.07.2018
 
 ![Image](https://i.imgur.com/oHm4PZN.jpg)
 
-## Thời gian ra mắt: 
+![](https://i.imgur.com/uRbQeHc.png)
 
 - **19h ngày 1/8**
 
@@ -47,6 +47,8 @@ date: 16.07.2018
 
 ## Hỗ Trợ Tân Thủ
 
+![](https://i.imgur.com/U0DEf1f.png)
+
 - Giftcode Tân Thủ: **KYNIEMTLBB25052018**
 
 - Level 10 nhận free bộ tân thủ full ngọc cấp 3
@@ -61,17 +63,19 @@ date: 16.07.2018
 
 ## Sự Kiện Giftcode mừng ngày OPEN Cuồng Phong Bạo Vũ:
 
+![](https://i.imgur.com/GBVpGKi.png)
+
 Bước 1: Like fangpage, Like bài viết, Tag tên ít nhất 10 người bạn mời cùng chơi và chia sẻ bài viết này dưới chế độ công khai
 
 Bước 2: Gửi ảnh đã tag tên về fangpage để nhận code trong vòng 30 phút.
 
 ## Đua Top level 99 nhận quà khủng
 
-### Thời gian diễn ra
+![](https://i.imgur.com/GBVpGKi.png)
 
 - Đến khi có 1 anh hùng đạt level 99
 
-### Phần Thưởng: 
+![](https://i.imgur.com/U0DEf1f.png)
 
 - Top 1:Trùng Lâu Triệu/Quy +1 thể 6+ 2k vàng + 300k KNB
 
@@ -83,17 +87,17 @@ Bước 2: Gửi ảnh đã tag tên về fangpage để nhận code trong vòng
 
 ## Khuyến mãi Nạp Bạc Từ ngày 1/08 đến 3/08
 
-### Nội dung: 
+![](https://i.imgur.com/GBVpGKi.png)
 
 - Khuyến mãi 20% bạc đối với thẻ Zing và 40% đối với Nạp qua ATM, Paypal.
 
 ## Sự kiện " Nhất Đại Phú Gia " ( chỉ áp dụng cho Server Cuồng Phong Bạo Vũ )
  
-### Thời gian diễn ra: 
+![](https://i.imgur.com/uRbQeHc.png)
 
 - Từ Ngày 01/8 đến 24h 07/08
 
-### Phần thưởng
+![](https://i.imgur.com/U0DEf1f.png)
 
 - Top 1: Trùng Lâu Giới + Băng Phách Thần Châm + 1 áo thời trang có thuộc tính (30 ngày) + pét 3k tư chất
 
