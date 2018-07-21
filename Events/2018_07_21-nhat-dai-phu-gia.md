@@ -15,3 +15,10 @@ date  :21.07.2018
 - Top 3: Băng phách Thần châm + 2 điêu văn Tùy chọn cấp 6 + 15 vải bông 3 + 15 bí ngân 3.
 
 ![](https://i.imgur.com/K3R71k2.jpg)
+
+-Cùng với đó là ra mắt sự kiện nạp tích lũy hằng ngày áp dụng cho 2 Sv
+
+Phi Long Tài Thiên Và Cuồng Phong Bạo Vũ
+
+![](https://i.imgur.com/nrhERxT.jpg)  ![](https://i.imgur.com/L8JmB4g.jpg)
+
