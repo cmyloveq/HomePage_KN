@@ -1,4 +1,4 @@
-title : ## Sự kiện " Nhất Đại Phú Gia " ( chỉ áp dụng cho Server Cuồng Phong Bạo Vũ )
+title : Sự kiện " Nhất Đại Phú Gia " ( chỉ áp dụng cho Server Cuồng Phong Bạo Vũ )
 image :https://i.imgur.com/oHm4PZN.jpg
 date  :21.07.2018
  
