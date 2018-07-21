@@ -1,3 +1,6 @@
+title: Hỗ trợ tân thủ gia nhập máy chủ Cuồng Phong Bạo Vũ
+image: https://i.imgur.com/oHm4PZN.jpg
+date: 21.07.2018
 Kính chào quý bằng hữu!
 
 Nhằm hỗ trợ chư vị tân thủ gia nhập máy chủ Cuồng Phong Bạo vũ tháng 8 này, bổn môn kính tặng chư vị một m
