@@ -7,4 +7,4 @@ Bước 1: Like fangpage, Like bài viết, Tag tên ít nhất 10 người bạ
 
 Bước 2: Gửi ảnh đã tag tên về fangpage để nhận code trong vòng 30 phút.
 
-![Image]([https://i.imgur.com/RuZqdJv.png)
+![Image](https://i.imgur.com/RuZqdJv.png)
