@@ -1,12 +1,18 @@
 title : Đánh Giá Hay Nhận Quà Liền Tay
-image :https://i.imgur.com/oHm4PZN.jpg
+image :https://i.imgur.com/Ip1J3qc.jpg
 date  :12.08.2018
+
+![image](https://i.imgur.com/Ip1J3qc.jpg)
+
+![](https://i.imgur.com/GBVpGKi.png)
 
 ###🎁🎁Sự Kiện "Đánh giá hay nhận quà liền tay"
 
 Đối tượng tham gia: Toàn máy chủ Cuồng Phong Bạo Vũ.
 
 💎Thời gian sự kiện: Từ nay đến 0h ngày 20/8
+
+![](https://i.imgur.com/GBVpGKi.png)
 
 💎Thể lệ tham gia:
 
