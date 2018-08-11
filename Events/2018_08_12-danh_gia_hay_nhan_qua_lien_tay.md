@@ -43,4 +43,4 @@ Groups: https://www.facebook.com/groups/kyniemtlbb
 
 Tải Game: http://tl.kyniemtlbb.com/Download
 
-![image](https://imgur.com/Ip1J3qc)
+![image](https://i.imgur.com/Ip1J3qc.jpg)
