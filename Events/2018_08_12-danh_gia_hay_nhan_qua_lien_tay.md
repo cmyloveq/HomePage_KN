@@ -22,6 +22,8 @@ date  :12.08.2018
 
 ####🔶Bước 2: Like bài viết và Tag tên ít nhất 7 người bạn và mời họ tham gia game để chung vui cùng server
 
+https://www.facebook.com/kyniemtlbb/photos/a.2097392583916666.1073741828.2090144207974837/2198008637188393/?type=3&theater
+
 ![](https://i.imgur.com/U0DEf1f.png)
 
 🔹 2 vải bông, bí ngân, tinh thiết cấp 1
