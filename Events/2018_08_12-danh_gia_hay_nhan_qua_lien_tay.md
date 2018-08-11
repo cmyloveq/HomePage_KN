@@ -12,8 +12,6 @@ date  :12.08.2018
 
 ![](https://i.imgur.com/GBVpGKi.png)
 
-💎Thể lệ tham gia:
-
 ####🔶Bước 1:
 
 🔹Nhấp vào link sau: https://www.facebook.com/kyniemtlbb/reviews/
@@ -24,9 +22,7 @@ date  :12.08.2018
 
 ####🔶Bước 2: Like bài viết và Tag tên ít nhất 7 người bạn và mời họ tham gia game để chung vui cùng server
 
-![](https://i.imgur.com/GBVpGKi.png)
-
-####🔶Phần thưởng Giftcode gồm:
+![](https://i.imgur.com/U0DEf1f.png)
 
 🔹 2 vải bông, bí ngân, tinh thiết cấp 1
 
