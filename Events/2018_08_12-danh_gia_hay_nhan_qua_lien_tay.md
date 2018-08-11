@@ -4,8 +4,6 @@ date  :12.08.2018
 
 ![image](https://i.imgur.com/Ip1J3qc.jpg)
 
-![](https://i.imgur.com/GBVpGKi.png)
-
 ###🎁🎁Sự Kiện "Đánh giá hay nhận quà liền tay"
 
 Đối tượng tham gia: Toàn máy chủ Cuồng Phong Bạo Vũ.
