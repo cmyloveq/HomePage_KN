@@ -26,6 +26,7 @@ date  :12.08.2018
 
 ####🔶Bước 2: Like bài viết và Tag tên ít nhất 7 người bạn và mời họ tham gia game để chung vui cùng server
 
+![](https://i.imgur.com/GBVpGKi.png)
 
 ####🔶Phần thưởng Giftcode gồm:
 
