@@ -24,7 +24,7 @@ date  :12.08.2018
 
 #####🔶Tag tên dưới bài viết này:
 
-https://www.facebook.com/kyniemtlbb/photos/a.2097392583916666.1073741828.2090144207974837/2198008637188393/?type=3&theater
+https://www.facebook.com/kyniemtlbb/posts/2198008837188373
 
 ![](https://i.imgur.com/U0DEf1f.png)
 
