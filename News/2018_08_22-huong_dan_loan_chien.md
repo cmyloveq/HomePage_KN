@@ -1,4 +1,4 @@
-tltle : Hướng Dấn Loạn Chiến
+title : Hướng Dấn Loạn Chiến
 image : https://i.imgur.com/GgwVSUv.jpg
 date :22.08.2018
 
