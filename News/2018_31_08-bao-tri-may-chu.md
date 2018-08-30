@@ -1,4 +1,4 @@
-title : Bảo trì máy chủ từ 0h ngày 1/09 đến 5h ngày 01/9.Và Các Cập Nhật Mới
+title : Thông báo bảo trì và cập nhật sự kiện lễ Quốc Khánh 2/9
 image : https://i.imgur.com/sPKlGTW.jpg
 date :31.08.2018
 
