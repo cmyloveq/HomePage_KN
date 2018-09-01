@@ -19,15 +19,14 @@ Gitcode bao gồm: 1 Áo dài Việt Nam có thuộc tính (7 ngày), 2 Trứng 
 Để nhận giftcode: Like + share + Tag tên ít nhất 10 bạn tham gia Game (nếu không share bài được phải tag 15 người). 
 
 Code sẽ tự động phát đến bạn trong vòng 20 phút.
-###🎉🎉Event Quốc LễCắm Quốc kỳ.
+
+🎉🎉Event Quốc LễCắm Quốc kỳ.
 
 ☑Nguyên liệu chế tạo Quốc Kỳ gồm: thân cờ, lá cờ, dây thừng và keo. Các nguyên liệu này sẽ được drop ở tất cả boss map, phó bản v.v
 
-☑Sau khi có đủ các nguyên liệu hãy về NPC may mặc để học may rồi tiến hành chế tạo Quốc Kỳ.
+☑Sau khi có đủ các nguyên liệu hãy về NPC Khai Quốc - Đại Lý [163,163] để Chế tạo Quốc Kỳ
 
-☑Sau khi chế tạo xong Quốc Kỳ các bạn hãy đem Quốc Kỳ đến dọc đại lô Đông tây Thành Lạc Dương Để tiến hành cắm Quốc Kỳ.
-
-☑Sau khi cắm quốc kỳ hãy đến NPC Khai Quốc tại Ngũ hoa đàn để nhận phần Thưởng.
+☑Sau khi chế tạo đủ 5 Quốc Kỳ, bạn có thể dùng đổi lây phần quà ngẫu nhiên đầy hấp dẫn
 
 Phần Thưởng bao gồm: 1 Thú Cưỡi rồng Có Thuộc Tính ( 7 ngày ) và 1 số bảo vật quý hiếm.
 
