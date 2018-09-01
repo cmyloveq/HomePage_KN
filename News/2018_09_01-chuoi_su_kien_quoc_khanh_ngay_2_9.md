@@ -2,7 +2,7 @@ title :Chuỗi Sự Kiện Quốc Khánh ngày 2/9
 image :https://i.imgur.com/veAvwXO.jpg
 date :01.09.2018
 
-https://i.imgur.com/veAvwXO.jpg
+![](https://i.imgur.com/veAvwXO.jpg)
 
 🔰 🔰Chuỗi Sự Kiện Quốc Khánh ngày 2/9 🔰 🔰
 
