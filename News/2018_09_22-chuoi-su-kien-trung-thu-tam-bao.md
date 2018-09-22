@@ -4,9 +4,9 @@ date:22.09.2018
 
 ![image](https://i.imgur.com/bE9q2eA.jpg)
 
-🏮🏮🏮Chuỗi Sự Kiện Trung Thu Tầm Bảo 🏮🏮🏮
+##🏮🏮🏮Chuỗi Sự Kiện Trung Thu Tầm Bảo 🏮🏮🏮
 
-🎉🎉Giftcode Chào Mừng Trung Thu 15/8 Âm Lịch
+###🎉🎉Giftcode Chào Mừng Trung Thu 15/8 Âm Lịch
 
 ❎Thời gian diễn ra Event : GiftCode sẽ được phát từ 0h ngày 23/09 đến hết ngày 25/09
 
@@ -20,7 +20,7 @@ Code sẽ tự động phát đến bạn trong vòng 20 phút.
 
 ======================================
 
-🎉🎉Event Làm Bánh Nướng, Bánh Dẻo Trung Thu 
+###🎉🎉Event Làm Bánh Nướng, Bánh Dẻo Trung Thu 
 
 ⏰Thời gian diễn ra sự kiện: Từ ngày 23/9 đến 4/10
 
@@ -58,7 +58,7 @@ Code sẽ tự động phát đến bạn trong vòng 20 phút.
 
 =====================================
 
-🎉🎉Event Làm Khổng Minh Đăng (Lồng Đèn):
+###🎉🎉Event Làm Khổng Minh Đăng (Lồng Đèn):
 
 ⏰Thời gian diễn ra sự kiện: Từ ngày 23/9 đến 4/10.
 
@@ -70,7 +70,7 @@ Code sẽ tự động phát đến bạn trong vòng 20 phút.
 
 ![](https://i.imgur.com/U0DEf1f.png)
 
-Khi treo đèn Khổng Minh đăng:
+###Khi treo đèn Khổng Minh đăng:
 
 - Pháo Hoa Trung Thu Vui Vẻ
 
@@ -96,7 +96,7 @@ Khi treo đèn Khổng Minh đăng:
 
 ===================================
 
-🎉🎉Event Tích Lũy Hoạt động Trung Thu:
+###🎉🎉Event Tích Lũy Hoạt động Trung Thu:
 
 Thời gian chốt TOP tích lũy 0h Ngày 5/10
 
@@ -110,7 +110,7 @@ TOP điểm hoạt động Tích Lũy Trung Thu:
 
 💎💎Top 3: Huyền Phượng Thiên Mệnh đời cuối 3k Tư chất (độc nhất)
 
-🎉🎉Event Chú Cuội Phát Quà:
+###🎉🎉Event Chú Cuội Phát Quà:
 
 Thời gian diễn ra sự kiện:19h30,20h30,21h30 ngày 24/9
 
