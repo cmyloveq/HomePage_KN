@@ -69,6 +69,7 @@ Code sẽ tự động phát đến bạn trong vòng 20 phút.
 💠Tất cả đều được drop ở toàn bộ boss + phụ bản (TRỪ GIẤY MÀU và NẾN chỉ nhận được qua Làm Bánh và Shop KNB với giá Giấy màu 5k Nến 3k)
 
 ![](https://i.imgur.com/U0DEf1f.png)
+
 Khi treo đèn Khổng Minh đăng:
 
 - Pháo Hoa Trung Thu Vui Vẻ
