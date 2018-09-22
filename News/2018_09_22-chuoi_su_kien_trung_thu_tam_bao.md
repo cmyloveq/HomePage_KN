@@ -1,4 +1,4 @@
-tittle:🏮🏮🏮Chuỗi Sự Kiện Trung Thu Tầm Bảo 🏮🏮🏮
+title:🏮🏮🏮Chuỗi Sự Kiện Trung Thu Tầm Bảo 🏮🏮🏮
 image :https://i.imgur.com/bE9q2eA.jpg
 date :22.09.2018
 
