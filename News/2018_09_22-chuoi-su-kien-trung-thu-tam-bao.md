@@ -2,7 +2,7 @@ title:🏮🏮🏮Chuỗi Sự Kiện Trung Thu Tầm Bảo 🏮🏮🏮
 image:https://i.imgur.com/bE9q2eA.jpg
 date:22.09.2018
 
-![image] (https://i.imgur.com/bE9q2eA.jpg)
+![image](https://i.imgur.com/bE9q2eA.jpg)
 
 🏮🏮🏮Chuỗi Sự Kiện Trung Thu Tầm Bảo 🏮🏮🏮
 
