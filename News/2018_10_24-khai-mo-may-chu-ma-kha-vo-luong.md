@@ -135,9 +135,8 @@ Trong khi luyện cấp ở các bãi train sẽ có cơ hội ngẫu nhiên nh�
 .
 ![](https://i.imgur.com/U0DEf1f.png)
 
-Ngẫu nhiên nhận được : Thông Thiên Linh Đan , Kim Cương Sa , Thiên Cang Cường Hóa Tinh Hoa , Thanh Tâm Đan , 
+Ngẫu nhiên nhận được : Thông Thiên Linh Đan , Kim Cương Sa , Thiên Cang Cường Hóa Tinh Hoa , Thanh Tâm Đan , Cao Cấp hợp thành phù …..
 
-Cao Cấp hợp thành phù …..
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
