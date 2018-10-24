@@ -8,7 +8,7 @@ date:24.10.2018
 
 ⏰Thời gian OPEN: 19h Ngày 1.11
 
-#####🎁🎁Giftcode Toàn Server: KNTLBB25052018
+####🎁🎁Giftcode Toàn Server: KNTLBB25052018
 
 📢📢Giới Thiệu Về Server Kỷ Niệm TLBB:
 
