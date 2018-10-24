@@ -101,7 +101,7 @@ Một số chức năng đặc sắc của Kỷ Niệm TLBB
 
 💎Top 2: Trùng lâu Triệu/ Quy + Băng Phách Thần Châm + 1 áo thời trang có thuộc tính ( 30 ngày ) + pet 3k tư chất
 
-💎Top 3: Băng phách Thần châm + 2 điêu văn Tùy chọn cấp 6 + 15 vải bông 3 + 15 bí ngân 3.
+💎Top 3: Băng phách Thần châm + 1 áo thời trang có thuộc tính ( 30 ngày ) + 15 vải bông 3 + 15 bí ngân 3.
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
