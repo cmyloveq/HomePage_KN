@@ -4,9 +4,9 @@ date:19.11.2018
 
 ![image](https://i.imgur.com/KqFm5Dj.png)
 
-##📢 📢 Chuỗi sự kiện chào mừng 20/11: 
+## 📢 📢 Chuỗi sự kiện chào mừng 20/11: 
 
-###🎉🎉Sự kiện Tặng Giftcode chào mừng lễ 20/11
+### 🎉🎉Sự kiện Tặng Giftcode chào mừng lễ 20/11
 
  ⏰ Thời gian diễn ra sự kiên: Từ nay đến hết ngày 25/11/2018.
  
@@ -18,7 +18,7 @@ date:19.11.2018
 
 =====================================
 
-###🎉🎉Sự kiện: Tri Ân Sư - Đồ
+### 🎉🎉Sự kiện: Tri Ân Sư - Đồ
 
 Thông qua những hoạt động sau đây để có được dòng chữ: Nhất Tự Vi Sư, Bán Tự Vi Sư.
 
@@ -43,13 +43,13 @@ Thông qua những hoạt động sau đây để có được dòng chữ: Nh�
 
 =====================================
 
-##🎉🎉Sự kiện giảm giá bảo Thạch cấp 5 ở Shop:
+## 🎉🎉Sự kiện giảm giá bảo Thạch cấp 5 ở Shop:
 
 
-###Nội dung sự kiện: Giảm giá ngọc cấp 5 ở shop xuống 24999knb duy nhất trong ngày 20/11.
+### Nội dung sự kiện: Giảm giá ngọc cấp 5 ở shop xuống 24999knb duy nhất trong ngày 20/11.
 
 =====================================
-###🎉🎉Trong ngày 20/11 thực hiện chuyển bạc 1 lần 20.000bạc trở lên sẽ nhận được 1 GIFTCODE bao gồm:
+### 🎉🎉Trong ngày 20/11 thực hiện chuyển bạc 1 lần 20.000bạc trở lên sẽ nhận được 1 GIFTCODE bao gồm:
 
 ![](https://i.imgur.com/U0DEf1f.png)
 
