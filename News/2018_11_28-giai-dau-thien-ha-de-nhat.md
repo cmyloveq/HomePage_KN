@@ -1,6 +1,8 @@
 title:📢 📢 GIẢI ĐẤU “ Thiên Hạ Đệ Nhất ”
-image:https://i.imgur.com/NGtIiAd.png
+image: https://i.imgur.com/NGtIiAd.png
 date:28.11.2018
+
+![](https://i.imgur.com/NGtIiAd.png)
 
 ### 📢 📢 GIẢI ĐẤU “ Thiên Hạ Đệ Nhất ”
 
