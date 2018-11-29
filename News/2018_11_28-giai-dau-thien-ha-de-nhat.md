@@ -65,9 +65,13 @@ Các thành viên khác trong đội vẫn tiếp tục trận đấu.
 
 Và các vấn đề liên quan đến nhân vật (bị log hoặc bị đá acc) BTC sẽ không chịu trách nhiệm và trận đấu vẫn tiếp tục diễn ra cho đến hết.
 
-• Không sử dụng trùng lâu khi thi đấu
+• Được phép sử dụng trùng lâu khi thi đấu(Không được giao dịch trùng qua acc khác khi chưa kết thúc giải đấu)
 
-• Cho phép sử dụng PET để chiến đấu
+•Cho phép sử dụng PET để chiến đấu(không dùng pet CHT và CCS)
+
+•Cấm mọi hình thức cắn lag (phong huyệt,ma túy,tản công,kháng mù,.....)trừ tinh hoa bảo thạch,nghiêm cấm sử dụng item ám khí .
+
+Đội ngũ GM
 
 Đội ngũ GM
 
