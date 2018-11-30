@@ -45,7 +45,7 @@ Hình thức thi đấu
 
 💠 Trong quá trình thi đấu nếu vi phạm một trong các vấn đề sau thì đội thi sẽ bị xử thua cuộc:
 
-Không được trang bị bất kỳ Trùng Lâu nào.
+💠 Không được trang bị bất kỳ Trùng Lâu nào.
 
 ❎ Trước và Trong khi thi đấu không được sử dụng bất kỳ item nào!! (kể cả đồ ăn pet)
 
