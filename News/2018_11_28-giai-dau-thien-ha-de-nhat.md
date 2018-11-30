@@ -41,37 +41,41 @@ Hình thức thi đấu
 
 🔰 Những giới hạn trong thi đấu:
 
-• Các bên thi đấu phải nghe theo hiệu lệnh của GM điều khiển trận đấu , 
+🔰 Vòng Loại:
+☑ Các nhân vật sẽ thi đấu theo lịch & sơ đồ của BTC
+☑ Việc chia cặp đấu, nhánh đấu sẽ được live stream trực tiếp trên Page Kỷ Niệm TLBB & Hội Phát Khìn Vì Tân Thiên Long 3D.
+🔰 Những giới hạn trong thi đấu:
+💠 Trường hợp trong thành viên bị ngắt kết nối (disconnect) BQT sẽ chờ 5 phút nếu nhân vật được gọi tên không xuất hiện thì trận đấu sẽ được tính cho bên còn lại
 
-vào trận đến khi GM bỏ theo thì mới được tính là bắt đầu trận đấu .
+💠 Các đội phải tuân theo hiệu lệnh của GM (Game Master) điều khiển trận đấu.
 
-• Không được đổi tên cho đến khi kết thúc giải đấu .
+💠 Trong quá trình thi đấu nếu vi phạm một trong các vấn đề sau thì đội thi sẽ bị xử thua cuộc:
 
-• Đối với môn phái Thiên Sơn không được tàng hình trước khi vào trận đấu, 
+Không được trang bị bất kỳ Trùng Lâu nào.
 
-và trong 1 trận đấu không tàng hình quá 1 phút. Nếu nhân vật nào vi phạm sẽ bị xử là hạ gục. 
+❎ Trước và Trong khi thi đấu không được sử dụng bất kỳ item nào!! (kể cả đồ ăn pet)
 
-Các thành viên khác trong đội vẫn tiếp tục trận đấu.
+❎ Không được lên cấp trong lúc thi đấu.
 
-• Trường hợp người chơi rời khỏi lôi đài (chủ động hoặc bị động) đều bị tính là bị hạ gục.
+❎Không sử dụng phần mềm can thiệp vào trận đấu.
 
-• Không được lên cấp trong lúc thi đấu.
+❎Không được sử dụng trân thú có kỹ năng Huyết Tế và Cao Huyết Tế. Cộng sinh và Cao Cộng Sinh
 
-• Không được sử dụng bất kì lag nào và ám khí lượm được ở YTO 
+❎ Thiên Sơn không được sử dụng kỹ năng Ẩn Thân (tàng hình) cho bản thân quá 1 phút và cả đội trước khi bước vào trận đấu.
 
-• Chỉ có phái tinh túc + minh giáo được dung buff hồi sinh cho bản thân còn các phái khác dùng thì đều phạm luật & bị xử thua .
+❎ Không được lợi dụng góc Lag khi tham gia thi đấu.
 
-• Sau khi các nhân vật xác nhận sẵn sàng thì trận đấu sẽ diễn ra và nếu có bất kỳ trường hợp nào xảy ra như disconnect mạng, lag, ….. 
+❎ Không được sử dụng hiệu ứng hồi sinh của từ kỹ năng của phái khác.
 
-Và các vấn đề liên quan đến nhân vật (bị log hoặc bị đá acc) BTC sẽ không chịu trách nhiệm và trận đấu vẫn tiếp tục diễn ra cho đến hết.
+Lưu ý: BQT không reply những inbox liên quan đến luật giải đấu. Thân
 
-• Được phép sử dụng trùng lâu khi thi đấu(Không được giao dịch trùng qua acc khác khi chưa kết thúc giải đấu)
+Quy tắc trao thưởng
+• Phần thưởng của giải đấu được đăng tải cụ thể trên trang chủ.
 
-•Cho phép sử dụng PET để chiến đấu(không dùng pet CHT và CCS)
+• BTC sẽ không trao thưởng cho những thành viên tự ý bỏ cuộc ở Vòng Chung kết.
 
-•Cấm mọi hình thức cắn lag (phong huyệt,ma túy,tản công,kháng mù,.....)trừ tinh hoa bảo thạch,nghiêm cấm sử dụng item ám khí .
+• BTC sẽ tiến hành trao giải cho nhân vật đạt giải. Thời gian trao giải sẽ được công bố trên trang chủ trò chơi.
 
-Đội ngũ GM
 
 Đội ngũ GM
 
