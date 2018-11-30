@@ -33,13 +33,7 @@ Nội dung đăng ký : Người chơi đăng kí Tên Nhân Vật + ID nhân v�
 
 Hình thức thi đấu
 
-🔰 Vòng Loại:
-
-☑ Các nhân vật sẽ thi đấu theo lịch & sơ đồ của BTC
-
-☑ Việc chia cặp đấu, nhánh đấu sẽ được live stream trực tiếp trên Page Kỷ Niệm TLBB & Hội Phát Khìn Vì Tân Thiên Long 3D.
-
-🔰 Những giới hạn trong thi đấu:
+### 🔰 Những giới hạn trong thi đấu:
 
 🔰 Vòng Loại:
 ☑ Các nhân vật sẽ thi đấu theo lịch & sơ đồ của BTC
