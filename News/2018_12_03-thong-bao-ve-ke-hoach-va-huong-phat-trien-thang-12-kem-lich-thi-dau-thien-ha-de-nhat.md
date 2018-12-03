@@ -8,7 +8,7 @@ date:03.12.2018
 
 🔰 Lịch thi đấu "Thiên Hạ Đệ Nhất" xem tại:
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQChCyw-ml2Fh7YgRZ8XJ2CqBdGZyxJPmt67iBs3s6wNbTzWwAdo-f9h3eXc5DLmE71fyVUbbAWDtFO/pubhtml?gid=1182578525&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQChCyw-ml2Fh7YgRZ8XJ2CqBdGZyxJPmt67iBs3s6wNbTzWwAdo-f9h3eXc5DLmE71fyVUbbAWDtFO/pubhtml?gid=1182578525&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="600" frameBorder="0"></iframe>
 
 🛑 Lưu ý: Có thể đăng kí thêm bằng cách inbox Fangpage để đăng kí Hạn chót ngày 5/12.
 💠 Ra mắt chức năng con cái
