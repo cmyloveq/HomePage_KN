@@ -6,7 +6,7 @@ date  :04.02.2019
 
 📢📢Vui Xuân Kỷ Hợi cùng Kỷ Niệm TLBB 
 
-🔰 🔰1. Món Quà Đầu Xuân
+### 🔰 🔰1. Món Quà Đầu Xuân
 
 Năm mới Tết đến team Kỷ Niệm xin tặng mọi người một hộp quà đầu xuân với nhiều quà tặng hấp dẫn chỉ cần onl đủ thời gian sẽ nhận được quà ❤
 
@@ -17,7 +17,7 @@ Năm mới Tết đến team Kỷ Niệm xin tặng mọi người một hộp q
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
-🔰 🔰2. Lì Xì Năm Mới 
+### 🔰 🔰2. Lì Xì Năm Mới 
 
 Trong thời gian event khi tham gia các phụ bản, làm bánh hoặc tiêu diệt boss dã ngoại sẽ có cơ hội nhận được bao lì xì mở ra có nhiều vật phẩm giá trị. Có thể mua ở shop với giá 5000 KNB.
 
@@ -31,7 +31,7 @@ Phần thưởng bao gồm những item thông thường, đồ chế 6,7,8 sao 
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
-🔰 🔰3. Mừng Xuân Kỷ Hợi 2019
+### 🔰 🔰3. Mừng Xuân Kỷ Hợi 2019
 
 Khi tham luyện cấp tại các bãi luyện cấp sẽ cơ hội nhận được 4 chữ : Mừng , Xuân , Kỷ , Hợi khi thu thập đủ 4 chữ có thể đến Đại Lý (158,143) NPC Thần Tài Để đổi thưởng sẽ nhận được các vật phẩm giá trị ( event này nhằm để mọi ng train nhiều hơn & hỗ trợ người mới )
 
@@ -41,7 +41,7 @@ Khi tham luyện cấp tại các bãi luyện cấp sẽ cơ hội nhận đư�
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
-🔰 🔰4. Mâm Cỗ Ngày Tết
+### 🔰 🔰4. Mâm Cỗ Ngày Tết
 
 Trong thời sẽ sự kiện ở thành Đại Lý (158,143) sẽ xuất hiện NPC Thần Tài để chế biến nguyên liệu làm Bánh chưng, Bánh giầy….
 
@@ -55,7 +55,7 @@ Trong thời sẽ sự kiện ở thành Đại Lý (158,143) sẽ xuất hiện
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 
-🔰 🔰5. Đài pháo hoa khổng lồ
+### 🔰 🔰5. Đài pháo hoa khổng lồ
 
 Mỗi ngày mỗi nhân vật có thể đến Đại Lý (158,143) NPC Thần Tài nhận miễn phí 10 pháo hoa hoặc khi tham gia luyện cấp , phó bản , tiêu diệt boss dã ngoại sẽ có cơ hội nhặt được .
 
@@ -67,14 +67,14 @@ Nhiệm vụ của các bạn là nạp pháo hoa vào đài (NPC Đồng Tử �
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
-🔰 🔰6. Event hỗ trợ người chơi mới ( vô thời hạn ) 
+### 🔰 🔰6. Event hỗ trợ người chơi mới ( vô thời hạn ) 
 
 Khi các bạn khởi tạo nhân vật mới & luyện cấp đến 90 sẽ nhận được 1 phần quà bao gồm 10 bí ngân 3 10 vải bông 3 ( CD ) 1 thể lực 6 ( Cd ) 1 CX 6 ( CD )
 
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
-🔰 🔰7. Event Tháng : Xổ Số May Mắn 
+### 🔰 🔰7. Event Tháng : Xổ Số May Mắn 
 
 Nội Dung : mỗi tháng vào ngày 28 sẽ tổ chức event xổ số & được live stream trực tiếp trên fanpage Hội Phát Khìn những bạn may mắn nhất trúng số sẽ nhận được những phần thưởng giá trị 
 
