@@ -14,7 +14,7 @@ Phần Thưởng
 
 Top 1: 1 cặp nhẫn Vĩnh Hằng Full sao do BQT Thiết Kế, 1 cặp song hùng Biến dị đời cuối 3k5 và 1tr KNB + 1 cặp thú cưỡi mới có TT 
 
-Top 2: 1 cặp nhẫn Vĩnh Hằng 7 sao do BQT Thiết kế, 1 cặp song hùng Biến dị đời cuối 3k5  và 800.000 KNB + 1 cặp thú cưỡi mới có TT 
+Top 2: 1 cặp nhẫn Vĩnh Hằng 8 sao do BQT Thiết kế, 1 cặp song hùng Biến dị đời cuối 3k5  và 800.000 KNB + 1 cặp thú cưỡi mới có TT 
 
 Top 3 : 1 cặp song hùng Biến dị đời cuối 3k5  và 500.000 KNB + 1 cặp thú cưỡi mới có TT 
 
