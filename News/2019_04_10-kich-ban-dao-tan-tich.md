@@ -30,7 +30,7 @@ Tại Đảo Tàn Tích nhận được 3 Vàng Khóa.
 
 + Sẽ tích hợp gồm 4 khu:
 
-🔵Khu Khai Khoáng:
+###🔵Khu Khai Khoáng:
 
 Khu sơ cấp khai khoáng (yêu cầu khai khoáng cấp 1)
 
@@ -41,7 +41,7 @@ Khu cao cấp khai khoáng(yêu cầu khai khoáng cấp 9)
 
 Lưu Ý : Trồng Trọt sẽ rơi toàn bộ vật phẩm liên quan đến trang bị như đồ chế
 
-🔵Khu Trồng Trọt:
+###🔵Khu Trồng Trọt:
 
 + Cần 1 npc bán hạt giống của 5 loại cây trồng và 1 NPC để chế Biến thức ăn theo Công Thức. Đủ thức ăn sẽ có 2 lựa chọn là: 
 
@@ -57,19 +57,19 @@ Nếu Người Trồng cây bị giết hoặc sau 3 phút không thu hoạch s�
 
 Lưu ý : đồ ăn hiếm yêu cầu kết hợp 1 số nguyên liệu của hái dược
 
-🔵Khu Hái dược:
+###🔵Khu Hái dược:
 
 + Xuất hiện cây trồng ngẫu nhiên 5 loại cây thường và 2 loại cây HIẾM . Khi hái ( thu hoạch ) 
 
 sẽ nhận được item và kết hợp với trồng trọt để làm thức ăn.
 
-🔵Khu Câu Cá:
+###🔵Khu Câu Cá:
 
 Có 2 loại cá là cá chép và Lươn ( hiếm ). Khi đủ số lượng cá có thể kết hợp nguyên liệu với trồng trọt hái dược để đổi thức ăn, 
 
 và 1 npc thu thập Lươn để đổi trứng PET ( Càng nhiều Lươn sẽ đổi được Pet Quý Hơn )
 
-🛑🛑🛑Lưu ý: 🛑🛑🛑
+##🛑🛑🛑Lưu ý: 🛑🛑🛑
 
 🛑 Đây chỉ là demo và có thể thay đổi. Nếu có ý tưởng hay các bạn có thể góp ý để Team có thể phát triển game hay nhất có thể.
 
