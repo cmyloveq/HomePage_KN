@@ -1,4 +1,4 @@
-title :20h Thứ 5 tại Nhạn Nam và chủ nhật tại Kính Hồ xuất hiện 
+title :20h Thứ 5 tại Nhạn Nam và chủ nhật tại Kính Hồ xuất hiện Boss Bàn Cổ
 image :https://i.imgur.com/XYcyhFy.jpg
 date  :12.07.2019
 
