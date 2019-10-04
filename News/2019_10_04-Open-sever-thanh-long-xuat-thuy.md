@@ -1,6 +1,6 @@
 title:🌺🌺Team Kỷ Niệm TLBB thân mời các Anh hùng yêu thích Thiên Long Bát Bộ
 image:https://i.imgur.com/F0ibaAU.png
-date:10.04.2019
+date:04.10.2019
 
 ![](https://i.imgur.com/F0ibaAU.png)
 
